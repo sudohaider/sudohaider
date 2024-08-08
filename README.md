@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently enrolled in the Robotics Engineering graduate program at the University of Genoa, Italy.
-- 👯 I am interested in working in the area of robotics, particularly in the domain of Computer Vision, Machine Learning, SLAM, Motion Planning, Robot Perception, and Mixed Reality.
-- 🌱 I’m currently using the Robot Operating System (ROS 1 & 2) in my projects to design the software architecture of my robotic systems.
+- 🔭 I’m a graduate student of Robotics Engineering at the University of Genoa, Italy.
+- 👯 I'm interested in working in robotic domains, particularly Computer Vision, Machine Learning, SLAM, Motion Planning, Robot Perception, and Mixed Reality.
+- 🌱 I have experience using Robot Operating System (ROS1 & ROS2) to design software architectures of robotic systems.
 - ⚡ I have worked with [Baxter](https://robotsguide.com/robots/baxter), [Nao](https://us.softbankrobotics.com/nao), and [Pepper](https://us.softbankrobotics.com/pepper) robots.
 - 🐍 I am proficient in Python, C, C++, C#, and MATLAB.
 
