@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**alihaidersays/alihaidersays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sudohaider/sudohaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ I have worked with [Baxter](https://robotsguide.com/robots/baxter), [Nao](https://us.softbankrobotics.com/nao), and [Pepper](https://us.softbankrobotics.com/pepper) robots.
 - 🐍 I am proficient in Python, C, C++, C#, and MATLAB.
 
-- 📫 Reach out to me at ali.haider9211@gmail.com or on [Linkedin](https://www.linkedin.com/in/malihaider/).
+- 📫 Reach out to me at haideratwork7@gmail.com or on [Linkedin](https://www.linkedin.com/in/sudohaider/).
