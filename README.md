@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Robotics Engineer from the University of Genoa, Italy.
+- 🔭 I’m a Robotics Engineering master's graduate from the University of Genoa, Italy.
 - 👯 I'm interested in working in robotic domains, particularly Embodied AI, Computer Vision, Motion Planning, and Mixed Reality.
 - 🌱 I have experience using Robot Operating System (ROS1 & ROS2) to design software architectures of robotic systems.
 - ⚡ I have worked with [Franka Emika Panda](https://robodk.com/robot/Franka/Emika-Panda), [Baxter](https://robotsguide.com/robots/baxter), [Nao](https://us.softbankrobotics.com/nao), and [Pepper](https://us.softbankrobotics.com/pepper) robots.
