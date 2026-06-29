@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Robotics Engineering master's graduate from the University of Genoa, Italy.
-- 👯 I'm interested in working in robotic domains, particularly Embodied AI, Computer Vision, Motion Planning, and Mixed Reality.
+- 🔭 I’m a doctoral student at the University of Waterloo, Canada.
+- 👯 I'm interested in working in robotic domains, particularly UAVs, Embodied AI, Computer Vision, Motion Planning, and Mixed Reality.
 - 🌱 I have experience using Robot Operating System (ROS1 & ROS2) to design software architectures of robotic systems.
-- ⚡ I have worked with [Franka Emika Panda](https://robodk.com/robot/Franka/Emika-Panda), [Baxter](https://robotsguide.com/robots/baxter), [Nao](https://us.softbankrobotics.com/nao), and [Pepper](https://us.softbankrobotics.com/pepper) robots.
+- ⚡ I have worked with UAVs, [Franka Emika Panda](https://robodk.com/robot/Franka/Emika-Panda), [Baxter](https://robotsguide.com/robots/baxter), [Nao](https://us.softbankrobotics.com/nao), and [Pepper](https://us.softbankrobotics.com/pepper) robots.
 - 🐍 I am proficient in Python, C++, C#, and MATLAB.
 
 - 📫 Reach out to me at haideratwork7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/sudohaider/).
